@@ -14,8 +14,6 @@ The Iris dataset contains 150 samples of Iris flowers, with measurements for sep
 ## Tools Used
 
 * **Power BI Desktop**: For data transformation (Power Query), data modeling, and interactive dashboard creation.
-* **Python (Optional)**: For advanced data transformations like feature scaling (StandardScaler) or dimensionality reduction (PCA) within Power Query, using libraries such as `pandas` and `scikit-learn`.
-* **Microsoft Excel (for initial inspection, if any)**
 
 ## Data Transformation & Analysis Highlights
 
